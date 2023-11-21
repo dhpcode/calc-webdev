@@ -183,12 +183,12 @@ select:-webkit-autofill:focus {
 }
 
 .output .previous-operand {
-  color: rgba(255, 2552, 255, 75%);
+  color: rgba(255, 255, 255, 75%);
   font-size: 1.5rem;
 }
 
 .output .current-operand {
-  color: rgba(255, 2552, 255, 100%);
+  color: rgba(255, 255, 255, 100%);
   font-size: 2.5rem;
 }
 
